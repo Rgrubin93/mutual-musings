@@ -6,6 +6,7 @@ menus:
     title: Contact
     weight: 6
 template: contact
----
+subtitle: ''
 
-Fill the form below to get in touch with me.
+---
+Share your musings with us.
