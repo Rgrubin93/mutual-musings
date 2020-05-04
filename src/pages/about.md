@@ -1,20 +1,14 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+title: Meet the minds behind the musings
+subtitle: ''
+img_path: ''
 menus:
   main:
     title: About
     weight: 2
 template: page
+
 ---
+Mike and Grubrock met as young girls in primary school, and have enjoyed a long and meaningful friendship since. There’s a fair amount of yin to yang action within this duo: one small and dark, the other tall and fair, one finds it hard to write long musings and the other can’t manage to do the short. One is kind and gentle the other fiery and fierce - this does of course change daily - classic gemini what can we say. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Our willingness to explore and positive outlooks have drawn us together for over 20 years, with this newsletter being the physical manifestation of our curious minds. May your musings be meaningful and bright.
