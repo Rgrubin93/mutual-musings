@@ -5,7 +5,7 @@
   "header": {
     "title": "Mutual Musings of Mike & Grubrock",
     "logo_img": "/images/Logo.png",
-    "has_nav": true
+    "has_nav": false
   },
   "footer": {
     "content": "&copy; All rights reserved.",
