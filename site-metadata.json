@@ -3,8 +3,8 @@
   "layout_style": "grid",
   "palette": "red",
   "header": {
-    "title": "Ampersand",
-    "logo_img": "images/logo.png",
+    "title": "Mutual Musings of Mike & Grubrock",
+    "logo_img": "/images/Logo.png",
     "has_nav": true
   },
   "footer": {
