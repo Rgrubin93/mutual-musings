@@ -4,8 +4,7 @@ subtitle: ''
 date: 2020-05-01T16:00:00Z
 thumb_img_path: "/images/Copy of Copy of Cheese knife grater  (1).jpg"
 content_img_path: "/images/Mutual_Musings_3.png"
-excerpt: The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+excerpt: ''
 template: post
 
 ---
