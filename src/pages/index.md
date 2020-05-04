@@ -6,7 +6,7 @@ sections:
   title: Intro
   section_id: intro
   component: Intro
-  content: Inside the minds of 2 girls with lots of ideas and nowhere to go.
+  content: "![](/images/header-1.jpg)"
   actions: []
 menus:
   main:
