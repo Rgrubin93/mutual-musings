@@ -61,9 +61,8 @@ sections:
   templates:
   - config
 - type: document
-  path: packages.json
+  path: package.json
   label: Scripts
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
