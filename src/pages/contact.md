@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Muse with us
 img_path: ''
 menus:
   main:
@@ -9,4 +9,4 @@ template: contact
 subtitle: ''
 
 ---
-Share your musings with us.
+Share your musings, ideas, gold star suggestions or any other nuggets from your mind with us
