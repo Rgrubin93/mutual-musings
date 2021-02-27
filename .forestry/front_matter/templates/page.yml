@@ -25,5 +25,3 @@ fields:
     required: true
 pages:
 - src/pages/about.md
-- src/pages/melo.md
-- src/pages/the-melo.md
