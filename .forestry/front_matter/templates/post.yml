@@ -38,6 +38,7 @@ fields:
     required: true
 pages:
 - src/pages/posts/mutual-musings-10.md
+- src/pages/posts/mutual-musings-11.md
 - src/pages/posts/mutual-musings-4.md
 - src/pages/posts/mutual-musings-5.md
 - src/pages/posts/mutual-musings-6.md
