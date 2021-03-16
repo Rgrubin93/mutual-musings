@@ -5,9 +5,8 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5eb06c87ed1a5000191427f1/webhook/forestry
 sections:
 - type: document
-  path: The Melo
+  path: src/pages/melo.md
   label: The Melo
-  match: "**/*"
 - type: heading
   label: Data
 - type: document
