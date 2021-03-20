@@ -1,4 +1,10 @@
 ---
 label: The Melo 3
 hide_body: true
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text
+  description: Add text
