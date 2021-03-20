@@ -1,4 +1,16 @@
 ---
 label: The Melo
 hide_body: true
-fields: []
+fields:
+- name: main_text
+  type: text
+  config:
+    required: false
+  label: Main text
+  description: Add text here
+- name: add_image
+  type: file
+  config:
+    maxSize: 64
+  label: Add Image
+  description: Image goes here
